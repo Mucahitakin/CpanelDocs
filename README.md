@@ -74,8 +74,6 @@ You have successfully completed the Cpanel installation. After that you can set 
 
 You can access this field by typing EasyApache4 in the search field of WHM.
 
-<img height='150' width='200' src="https://www.php.net/images/logos/php-logo.svg">
-
 Then you say Customize in the Currently Installed Packages section.
 
 Then, after selecting the php version and php extension sections, we say review.

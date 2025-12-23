@@ -12,7 +12,7 @@ After uploading the downloaded iso file we proceed with the installation.
 
 <img src="http://mucahitakin.com/blog/akinimg/almalinux-nasil-kurulur-gorsel1-dQJtkM1YQd.png" height='400' width='400'>
 
-mkdir /root/cpanel_profile && echo 'mysql-version=10.6' > /root/cpanel_profile/cpanel.config mariadb config !!! First command
+
 
 - We start the installation by saying Install
 
@@ -55,6 +55,10 @@ I am a backend php developer, so mysql and php related versions are of great int
 You can use any of these isos you need.
 
 ### Installation Guide - Installation
+
+config mariadb
+
+`mkdir /root/cpanel_profile && echo 'mysql-version=10.6' > /root/cpanel_profile/cpanel.config mariadb config !!! First command`
 
 To install cPanel & WHM on your server, run the following command:
 

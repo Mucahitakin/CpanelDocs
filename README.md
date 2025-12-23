@@ -12,6 +12,8 @@ After uploading the downloaded iso file we proceed with the installation.
 
 <img src="http://mucahitakin.com/blog/akinimg/almalinux-nasil-kurulur-gorsel1-dQJtkM1YQd.png" height='400' width='400'>
 
+mkdir /root/cpanel_profile && echo 'mysql-version=10.6' > /root/cpanel_profile/cpanel.config mariadb config !!! First command
+
 - We start the installation by saying Install
 
 
